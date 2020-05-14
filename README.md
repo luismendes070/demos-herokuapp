@@ -1,7 +1,7 @@
 # demos-heroku
 
 React JavaScript
-https://shielded-garden-61283.herokuapp.com//
+https://shielded-garden-61283.herokuapp.com/
 
 Java Spring 
 https://boiling-gorge-20815.herokuapp.com/
