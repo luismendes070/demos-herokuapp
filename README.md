@@ -3,6 +3,9 @@
 React JavaScript
 https://shielded-garden-61283.herokuapp.com/
 
+React Amplify 
+<a href="https://github.com/luismendes070/amplifyapp">React demo OpenSource AWS Amplify Salesforce Heroku</a>
+
 Java Spring 
 https://boiling-gorge-20815.herokuapp.com/
 
