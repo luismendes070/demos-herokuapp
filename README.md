@@ -1,24 +1,32 @@
-# demos-heroku
+# <h1>demos-heroku</h1>
 
 <a href="https://blog.heroku.com/next-chapter"> Salesforce Heroku PAAS Next Chapter</a>
 
 <a href="https://github.com/luismendes070/cloud-parking">DIO Bootcamp Spring Framework Experience Challenge</a>
-https://github.com/luismendes070/cloud-parking
 
-React JavaScript
-https://shielded-garden-61283.herokuapp.com/
+<br>
+<h1> Repositories
+<ul>
+  <li>https://github.com/luismendes070/cloud-parking</li>
+  <li>React JavaScript</li>
+  
+<li></li>
 
-React Amplify 
-<a href="https://github.com/luismendes070/amplifyapp">React demo OpenSource AWS Amplify Salesforce Heroku</a>
 
+<a href="https://github.com/luismendes070/amplifyapp"> React Amplify <br> React demo OpenSource AWS Amplify Salesforce Heroku</a>
+<li></li>
 Java Spring 
-https://boiling-gorge-20815.herokuapp.com/
 
+<li></li>
 Java 
-https://stormy-falls-71059.herokuapp.com/
+<li></li>
 
 PHP
-https://fast-depths-48448.herokuapp.com/
+<li></li>
 
 Ruby
-https://arcane-dusk-33692.herokuapp.com/
+</ul>
+</h1>
+
+
+
